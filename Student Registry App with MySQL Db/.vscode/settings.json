@@ -1,0 +1,13 @@
+{
+    "java.project.sourcePaths": ["src"],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": {
+        "include": [
+            "lib/**/*.jar",
+            "c:\\Users\\thear\\Desktop\\sqlite-jdbc-3.41.2.1.jar"
+        ],
+        "exclude": [
+            "lib/sqlite-jdbc-3.41.2.1.jar"
+        ]
+    }
+}
